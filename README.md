@@ -1,4 +1,4 @@
-This is a pure python project with the purpose of allowing the user to create and manage virtual avatar controllers for vrchat.
+This is a python project with the purpose of allowing the user to create and manage virtual avatar controllers for vrchat.
 Any help or suggestions would be apreciated, as this entire project has been a learning experience.
 
 ## DISCLAIMER!
